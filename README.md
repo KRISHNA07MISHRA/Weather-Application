@@ -52,4 +52,4 @@ I built this app as part of my ongoing journey in Android development, focusing 
 If you have any feedback, suggestions, or just want to connect, feel free to reach out:
 
 Email: krishnanandmishra386@gmail.com
-LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/coder-krishna-nand-mishra/)
+LinkedIn: (https://www.linkedin.com/in/coder-krishna-nand-mishra/)
