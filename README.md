@@ -7,6 +7,8 @@ Kotlin/Java: For clean, modular, and efficient code.
 Retrofit: Networking made simple and effective for fetching real-time weather data.
 MVVM Architecture: For a clean separation of concerns and ease of maintenance.
 Material Design: Sleek UI and intuitive navigation for the best user experience.
+
+
 🌟 Features
 Real-time Weather Updates: Fetch weather details of any city in seconds.
 User-friendly Interface: Designed with a clean, minimal, and intuitive layout.
