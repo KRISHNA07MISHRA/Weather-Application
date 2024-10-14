@@ -27,7 +27,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/krishnanand07/weather-app.git
+git clone https://github.com/krishnanand07/weather-application.git
 Open the project in Android Studio.
 
 Build and run the project on your emulator or connected device.
